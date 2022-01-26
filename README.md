@@ -1,0 +1,2 @@
+# datah-m1-challange
+Recurrent Neural Network (RNN) - A estrutura da rede é semelhante à de um perceptron multicamada padrão, com a distinção de que permitimos conexões entre unidades ocultas associadas a um atraso de tempo. Por meio dessas conexões, o modelo pode reter informações sobre as entradas passadas, permitindo descobrir correlações temporais entre eventos possivelmente distantes uns dos outros.
